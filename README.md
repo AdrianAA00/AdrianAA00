@@ -12,7 +12,7 @@ Cheers,
 
 :airplane: :rocket: Adrián :rocket: :airplane:
 
-Aero Student at ETSIAE
+MSc student at TU Delft
 
 :e-mail: : aderstaarey@yahoo.es
 
