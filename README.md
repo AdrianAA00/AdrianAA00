@@ -4,7 +4,7 @@
 
 Hi, :wave:
 
-I am Adrián Antón Álvarez, an aerospace graduete student at Caltech. This repository is intended for uploading usefull code I have being developing on my own and with some mates. The contents are related to aerospace industry and to some other proyects I have being involved in. 
+I am Adrián Antón Álvarez, an aerospace graduate student at Caltech. This repository is intended for uploading usefull code I have being developing on my own and with some mates. The contents are related to aerospace industry and to some other proyects I have being involved in. 
 
 I hope you find it interesting and helpfull :smiley:
 
